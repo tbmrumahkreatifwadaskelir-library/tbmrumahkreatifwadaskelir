@@ -1,0 +1,43 @@
+{
+  "name": "user test",
+  "member_code": "RK-2026-0892",
+  "email": "user.test@email.com",
+  "whatsapp": "0812-3456-7890",
+  "address": "Jl. Kenanga No. 45, Purwokerto Selatan, Banyumas",
+  "memberSince": "12 Agustus 2023",
+  "status": "Anggota Aktif",
+  "level": "Level 4: Penjelajah",
+  "avatar": "/images/avatar-profile.jpg",
+  "stats": {
+    "bukuDibaca": 42,
+    "sedangDipinjam": 3,
+    "poinKomunitas": 1250
+  },
+  "kategoriFavorit": [
+    { "label": "Sastra & Fiksi", "percentage": 45, "color": "#99BD4A" },
+    { "label": "Teknologi", "percentage": 30, "color": "#3b82f6" },
+    { "label": "Sains", "percentage": 15, "color": "#f59e0b" },
+    { "label": "Lainnya", "percentage": 10, "color": "#8b5cf6" }
+  ],
+  "tags": ["DDC 800", "DDC 600", "NOVEL"],
+  "aktivitasTerbaru": [
+    {
+      "id": "1",
+      "title": "Bumi Manusia",
+      "author": "Oleh Pramoedya Ananta Toer",
+      "status": "Dikembalikan",
+      "statusColor": "#99BD4A",
+      "time": "2 hari yang lalu",
+      "image": "/images/book-bumi-manusia.jpg"
+    },
+    {
+      "id": "2",
+      "title": "A Brief History of Time",
+      "author": "Oleh Stephen Hawking",
+      "status": "Sedang Dipinjam",
+      "statusColor": "#3b82f6",
+      "time": "5 hari yang lalu",
+      "image": "/images/book-brief-history.jpg"
+    }
+  ]
+}

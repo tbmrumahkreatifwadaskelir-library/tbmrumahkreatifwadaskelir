@@ -1,0 +1,102 @@
+[
+  {
+    "id": "#MEMBER-042",
+    "name": "Andi Pratama",
+    "email": "andi@email.com",
+    "phone": "08123456789",
+    "status": "AKTIF",
+    "loans": 12,
+    "initials": "AP",
+    "color": "bg-green-100 text-green-700"
+  },
+  {
+    "id": "#MEMBER-039",
+    "name": "Siti Aminah",
+    "email": "siti@email.com",
+    "phone": "08567890123",
+    "status": "AKTIF",
+    "loans": 5,
+    "initials": "SA",
+    "color": "bg-yellow-100 text-yellow-700"
+  },
+  {
+    "id": "#MEMBER-012",
+    "name": "Budi Santoso",
+    "email": "budi@email.com",
+    "phone": "08198765432",
+    "status": "NONAKTIF",
+    "loans": 0,
+    "initials": "BS",
+    "color": "bg-slate-100 text-slate-700"
+  },
+  {
+    "id": "#MEMBER-045",
+    "name": "Dewi Lestari",
+    "email": "dewi.lestari@email.com",
+    "phone": "08134567890",
+    "status": "AKTIF",
+    "loans": 24,
+    "initials": "DL",
+    "color": "bg-purple-100 text-purple-700"
+  },
+  {
+    "id": "#MEMBER-022",
+    "name": "Fajar Rahman",
+    "email": "fajar.r@email.com",
+    "phone": "08129876543",
+    "status": "AKTIF",
+    "loans": 3,
+    "initials": "FR",
+    "color": "bg-blue-100 text-blue-700"
+  },
+  {
+    "id": "#MEMBER-008",
+    "name": "Ratna Sari",
+    "email": "ratna.sari@email.com",
+    "phone": "08571234567",
+    "status": "NONAKTIF",
+    "loans": 1,
+    "initials": "RS",
+    "color": "bg-slate-100 text-slate-700"
+  },
+  {
+    "id": "#MEMBER-050",
+    "name": "Kevin Wijaya",
+    "email": "kevin.w@email.com",
+    "phone": "08112345678",
+    "status": "AKTIF",
+    "loans": 8,
+    "initials": "KW",
+    "color": "bg-orange-100 text-orange-700"
+  },
+  {
+    "id": "#MEMBER-033",
+    "name": "Maya Indah",
+    "email": "maya.i@email.com",
+    "phone": "08781234987",
+    "status": "AKTIF",
+    "loans": 15,
+    "initials": "MI",
+    "color": "bg-pink-100 text-pink-700"
+  },
+  {
+    "id": "#MEMBER-017",
+    "name": "Reza Gunawan",
+    "email": "reza.gunawan@email.com",
+    "phone": "08123498765",
+    "status": "NONAKTIF",
+    "loans": 2,
+    "initials": "RG",
+    "color": "bg-slate-100 text-slate-700"
+  },
+  {
+    "id": "#MEMBER-048",
+    "name": "Tari Hidayat",
+    "email": "tari.h@email.com",
+    "phone": "08961234567",
+    "status": "AKTIF",
+    "loans": 19,
+    "initials": "TH",
+    "color": "bg-teal-100 text-teal-700"
+  }
+]

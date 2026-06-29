@@ -1,0 +1,77 @@
+[
+  {
+    "id": "REQ-001",
+    "peminjam": {
+      "name": "Budi Santoso",
+      "member_code": "#1204",
+      "avatar": "https://i.pravatar.cc/150?u=budi"
+    },
+    "buku": {
+      "title": "Laskar Pelangi",
+      "author": "Andrea Hirata"
+    },
+    "requestDate": "24 Okt 2023",
+    "duration": 7,
+    "status": "Menunggu"
+  },
+  {
+    "id": "REQ-002",
+    "peminjam": {
+      "name": "Siti Aminah",
+      "member_code": "#1502",
+      "avatar": "https://i.pravatar.cc/150?u=siti"
+    },
+    "buku": {
+      "title": "Bumi Manusia",
+      "author": "Pramoedya Ananta Toer"
+    },
+    "requestDate": "24 Okt 2023",
+    "duration": 14,
+    "status": "Menunggu"
+  },
+  {
+    "id": "REQ-003",
+    "peminjam": {
+      "name": "Ahmad Faisal",
+      "member_code": "#1182",
+      "avatar": "https://i.pravatar.cc/150?u=ahmad"
+    },
+    "buku": {
+      "title": "Filosofi Teras",
+      "author": "Henry Manampiring"
+    },
+    "requestDate": "23 Okt 2023",
+    "duration": 3,
+    "status": "Menunggu"
+  },
+  {
+    "id": "REQ-004",
+    "peminjam": {
+      "name": "Rina Wati",
+      "member_code": "#1399",
+      "avatar": "https://i.pravatar.cc/150?u=rina"
+    },
+    "buku": {
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari"
+    },
+    "requestDate": "22 Okt 2023",
+    "duration": 7,
+    "status": "Disetujui"
+  },
+  {
+    "id": "REQ-005",
+    "peminjam": {
+      "name": "Joko Widodo",
+      "member_code": "#1001",
+      "avatar": "https://i.pravatar.cc/150?u=joko"
+    },
+    "buku": {
+      "title": "Atomic Habits",
+      "author": "James Clear"
+    },
+    "requestDate": "21 Okt 2023",
+    "duration": 14,
+    "status": "Ditolak"
+  }
+]

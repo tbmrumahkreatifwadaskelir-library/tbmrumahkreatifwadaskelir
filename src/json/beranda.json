@@ -1,0 +1,86 @@
+{
+  "hero": {
+    "userName": "User",
+    "greeting": "Halo",
+    "title": "Temukan petualanganmu berikutnya di Perpustakaan",
+    "subtitle": "Berdasarkan minat baca dan aktivitas literasimu, kami telah menyiapkan beberapa pilihan spesial untukmu hari ini."
+  },
+  "borrowedBooks": [
+    {
+      "id": 1,
+      "title": "Laskar Pelangi",
+      "author": "Andrea Hirata",
+      "daysLeft": 5,
+      "progress": 70,
+      "borrowDate": "12 Okt",
+      "returnDate": "26 Okt",
+      "coverColor": "#7d9e7e",
+      "coverAccent": "#99BD4A"
+    },
+    {
+      "id": 2,
+      "title": "Filosofi Teras",
+      "author": "Henry Manampiring",
+      "daysLeft": 12,
+      "progress": 15,
+      "borrowDate": "20 Okt",
+      "returnDate": "05 Nov",
+      "coverColor": "#8fbc8f",
+      "coverAccent": "#6b8e6b"
+    }
+  ],
+  "weeklyActivity": {
+    "data": [
+      { "day": "Sen", "hours": 2.5 },
+      { "day": "Sel", "hours": 1.8 },
+      { "day": "Rab", "hours": 3.2 },
+      { "day": "Kam", "hours": 0.5 },
+      { "day": "Jum", "hours": 2.0 },
+      { "day": "Sab", "hours": 1.2 },
+      { "day": "Min", "hours": 0.8 }
+    ],
+    "totalHours": 12
+  },
+  "recommendedBooks": [
+    {
+      "id": 1,
+      "title": "Kreativitas di Wadas Kelir",
+      "author": "Heri Sugiyanto",
+      "matchPercent": 98,
+      "coverGradient": "linear-gradient(145deg, #99BD4A, #3d5a26)",
+      "titleOnCover": "KREATIVITAS\nDI WADAS\nKELIR"
+    },
+    {
+      "id": 2,
+      "title": "Logika & Algoritma Dasar",
+      "author": "Siti Nurhaliza",
+      "matchPercent": 92,
+      "coverGradient": "linear-gradient(145deg, #d4b896, #c4a67a)",
+      "titleOnCover": "LOGIKA &\nALGORITMA\nDASAR"
+    },
+    {
+      "id": 3,
+      "title": "Sejarah Nusantara Modern",
+      "author": "Budi Setiawan",
+      "matchPercent": 89,
+      "coverGradient": "linear-gradient(145deg, #7d9e7e, #5e8060)",
+      "titleOnCover": "SEJARAH\nNUSANTARA\nMODERN"
+    },
+    {
+      "id": 4,
+      "title": "Psikologi Pendidikan Anak",
+      "author": "Dr. Rina Marlina",
+      "matchPercent": 85,
+      "coverGradient": "linear-gradient(145deg, #4a6741, #364d30)",
+      "titleOnCover": "PSIKOLOGI\nPENDIDIKAN\nANAK"
+    },
+    {
+      "id": 5,
+      "title": "Bahasa Indonesia untuk Akademik",
+      "author": "Prof. Ahmad Fauzi",
+      "matchPercent": 81,
+      "coverGradient": "linear-gradient(145deg, #6b8e6b, #4d7050)",
+      "titleOnCover": "BAHASA\nINDONESIA\nAKADEMIK"
+    }
+  ]
+}

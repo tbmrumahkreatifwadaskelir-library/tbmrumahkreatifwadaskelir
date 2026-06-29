@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Aditya Saputra",
+    "email": "aditya.s@email.com",
+    "nik": "3210042900120003",
+    "date": "24 Okt 2023",
+    "status": "TERVERIFIKASI",
+    "statusColor": "bg-green-100 text-green-700",
+    "initials": "AS"
+  },
+  {
+    "id": 2,
+    "name": "Rina Maharani",
+    "email": "rina.m@email.com",
+    "nik": "3174092108940001",
+    "date": "24 Okt 2023",
+    "status": "MENUNGGU VERIFIKASI",
+    "statusColor": "bg-red-100 text-red-700",
+    "initials": "RM"
+  },
+  {
+    "id": 3,
+    "name": "Bambang Kusuma",
+    "email": "b.kusuma@email.com",
+    "nik": "3518021103880005",
+    "date": "23 Okt 2023",
+    "status": "MENUNGGU VERIFIKASI",
+    "statusColor": "bg-red-100 text-red-700",
+    "initials": "BK"
+  },
+  {
+    "id": 4,
+    "name": "Siti Nurhaliza",
+    "email": "siti.n@email.com",
+    "nik": "3210051203990001",
+    "date": "23 Okt 2023",
+    "status": "TERVERIFIKASI",
+    "statusColor": "bg-green-100 text-green-700",
+    "initials": "SN"
+  },
+  {
+    "id": 5,
+    "name": "Budi Santoso",
+    "email": "budi.s@email.com",
+    "nik": "3210061504980002",
+    "date": "22 Okt 2023",
+    "status": "DITOLAK",
+    "statusColor": "bg-slate-100 text-slate-700",
+    "initials": "BS"
+  },
+  {
+    "id": 6,
+    "name": "Dewi Lestari",
+    "email": "dewi.l@email.com",
+    "nik": "3174092809950004",
+    "date": "22 Okt 2023",
+    "status": "TERVERIFIKASI",
+    "statusColor": "bg-green-100 text-green-700",
+    "initials": "DL"
+  },
+  {
+    "id": 7,
+    "name": "Ahmad Fauzi",
+    "email": "ahmad.f@email.com",
+    "nik": "3518021911900007",
+    "date": "21 Okt 2023",
+    "status": "MENUNGGU VERIFIKASI",
+    "statusColor": "bg-red-100 text-red-700",
+    "initials": "AF"
+  },
+  {
+    "id": 8,
+    "name": "Nina Yuliana",
+    "email": "nina.y@email.com",
+    "nik": "3210041005920008",
+    "date": "21 Okt 2023",
+    "status": "TERVERIFIKASI",
+    "statusColor": "bg-green-100 text-green-700",
+    "initials": "NY"
+  },
+  {
+    "id": 9,
+    "name": "Hendra Gunawan",
+    "email": "hendra.g@email.com",
+    "nik": "3174090512880009",
+    "date": "20 Okt 2023",
+    "status": "MENUNGGU VERIFIKASI",
+    "statusColor": "bg-red-100 text-red-700",
+    "initials": "HG"
+  },
+  {
+    "id": 10,
+    "name": "Linda Sari",
+    "email": "linda.s@email.com",
+    "nik": "3518020701850010",
+    "date": "20 Okt 2023",
+    "status": "TERVERIFIKASI",
+    "statusColor": "bg-green-100 text-green-700",
+    "initials": "LS"
+  },
+  {
+    "id": 11,
+    "name": "Eko Prasetyo",
+    "email": "eko.p@email.com",
+    "nik": "3210042208930011",
+    "date": "19 Okt 2023",
+    "status": "DITOLAK",
+    "statusColor": "bg-slate-100 text-slate-700",
+    "initials": "EP"
+  },
+  {
+    "id": 12,
+    "name": "Maya Wulandari",
+    "email": "maya.w@email.com",
+    "nik": "3174091402960012",
+    "date": "19 Okt 2023",
+    "status": "TERVERIFIKASI",
+    "statusColor": "bg-green-100 text-green-700",
+    "initials": "MW"
+  },
+  {
+    "id": 13,
+    "name": "Reza Rahadian",
+    "email": "reza.r@email.com",
+    "nik": "3518020904910013",
+    "date": "18 Okt 2023",
+    "status": "MENUNGGU VERIFIKASI",
+    "statusColor": "bg-red-100 text-red-700",
+    "initials": "RR"
+  },
+  {
+    "id": 14,
+    "name": "Dian Sastrowardoyo",
+    "email": "dian.s@email.com",
+    "nik": "3210041603820014",
+    "date": "18 Okt 2023",
+    "status": "TERVERIFIKASI",
+    "statusColor": "bg-green-100 text-green-700",
+    "initials": "DS"
+  },
+  {
+    "id": 15,
+    "name": "Andi Darmawan",
+    "email": "andi.d@email.com",
+    "nik": "3174092511870015",
+    "date": "17 Okt 2023",
+    "status": "MENUNGGU VERIFIKASI",
+    "statusColor": "bg-red-100 text-red-700",
+    "initials": "AD"
+  },
+  {
+    "id": 16,
+    "name": "Putri Kusuma",
+    "email": "putri.k@email.com",
+    "nik": "3518020306940016",
+    "date": "17 Okt 2023",
+    "status": "TERVERIFIKASI",
+    "statusColor": "bg-green-100 text-green-700",
+    "initials": "PK"
+  },
+  {
+    "id": 17,
+    "name": "Fajar Nugroho",
+    "email": "fajar.n@email.com",
+    "nik": "3210041112890017",
+    "date": "16 Okt 2023",
+    "status": "DITOLAK",
+    "statusColor": "bg-slate-100 text-slate-700",
+    "initials": "FN"
+  },
+  {
+    "id": 18,
+    "name": "Ratna Galih",
+    "email": "ratna.g@email.com",
+    "nik": "3174091907860018",
+    "date": "16 Okt 2023",
+    "status": "TERVERIFIKASI",
+    "statusColor": "bg-green-100 text-green-700",
+    "initials": "RG"
+  },
+  {
+    "id": 19,
+    "name": "Surya Saputra",
+    "email": "surya.s@email.com",
+    "nik": "3518022709920019",
+    "date": "15 Okt 2023",
+    "status": "MENUNGGU VERIFIKASI",
+    "statusColor": "bg-red-100 text-red-700",
+    "initials": "SS"
+  },
+  {
+    "id": 20,
+    "name": "Mega Pertiwi",
+    "email": "mega.p@email.com",
+    "nik": "3210040810970020",
+    "date": "15 Okt 2023",
+    "status": "TERVERIFIKASI",
+    "statusColor": "bg-green-100 text-green-700",
+    "initials": "MP"
+  }
+]

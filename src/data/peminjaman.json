@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "member": { "initials": "AS", "name": "Aditya Saputra", "id": "#M-892", "color": "blue" },
+    "book": { "title": "Sapiens: Riwayat Singkat", "category": "NON-FIKSI" },
+    "borrowDate": "12 Okt 2023", "status": ["AKTIF"],
+    "penalty": { "amount": null, "daysLate": null }, "action": "UPDATE STATUS", "actionDisabled": false
+  },
+  {
+    "id": "2",
+    "member": { "initials": "AS", "name": "Aditya Saputra", "id": "#M-892", "color": "blue" },
+    "book": { "title": "Sapiens: Riwayat Singkat", "category": "NON-FIKSI" },
+    "borrowDate": "12 Okt 2023", "status": ["DIKEMBALIKAN"],
+    "penalty": { "amount": null, "daysLate": null }, "action": "UPDATE STATUS", "actionDisabled": true
+  },
+  {
+    "id": "3",
+    "member": { "initials": "RN", "name": "Rina Nuraini", "id": "#M-741", "color": "red" },
+    "book": { "title": "Bumi Manusia", "category": "FIKSI" },
+    "borrowDate": "01 Okt 2023", "status": ["TERLAMBAT", "PERINGATAN AKTIF"],
+    "penalty": { "amount": "Rp 15.000", "daysLate": "3 HARI TERLAMBAT" }, "action": "BAYAR DENDA", "actionDisabled": false
+  },
+  {
+    "id": "4",
+    "member": { "initials": "BP", "name": "Bambang Pamungkas", "id": "#M-102", "color": "red" },
+    "book": { "title": "Filosofi Teras", "category": "NON-FIKSI" },
+    "borrowDate": "25 Sep 2023", "status": ["TERLAMBAT", "TIDAK BISA PINJAM"],
+    "penalty": { "amount": "Rp 45.000", "daysLate": "9 HARI TERLAMBAT" }, "action": "BAYAR DENDA", "actionDisabled": false
+  },
+  {
+    "id": "5",
+    "member": { "initials": "DA", "name": "Dimas Anggara", "id": "#M-893", "color": "blue" },
+    "book": { "title": "Atomic Habits", "category": "NON-FIKSI" },
+    "borrowDate": "14 Okt 2023", "status": ["AKTIF"],
+    "penalty": { "amount": null, "daysLate": null }, "action": "UPDATE STATUS", "actionDisabled": false
+  },
+  {
+    "id": "6",
+    "member": { "initials": "LK", "name": "Lestari Kusuma", "id": "#M-894", "color": "red" },
+    "book": { "title": "Laskar Pelangi", "category": "FIKSI" },
+    "borrowDate": "10 Okt 2023", "status": ["DIKEMBALIKAN"],
+    "penalty": { "amount": null, "daysLate": null }, "action": "UPDATE STATUS", "actionDisabled": true
+  },
+  {
+    "id": "7",
+    "member": { "initials": "FA", "name": "Fahri Ahmad", "id": "#M-895", "color": "blue" },
+    "book": { "title": "The Psychology of Money", "category": "NON-FIKSI" },
+    "borrowDate": "05 Okt 2023", "status": ["TERLAMBAT", "PERINGATAN AKTIF"],
+    "penalty": { "amount": "Rp 10.000", "daysLate": "2 HARI TERLAMBAT" }, "action": "BAYAR DENDA", "actionDisabled": false
+  },
+  {
+    "id": "8",
+    "member": { "initials": "SN", "name": "Siti Nurhaliza", "id": "#M-896", "color": "red" },
+    "book": { "title": "Gadis Kretek", "category": "FIKSI" },
+    "borrowDate": "15 Okt 2023", "status": ["AKTIF"],
+    "penalty": { "amount": null, "daysLate": null }, "action": "UPDATE STATUS", "actionDisabled": false
+  },
+  {
+    "id": "9",
+    "member": { "initials": "RT", "name": "Reza Rahadian", "id": "#M-897", "color": "blue" },
+    "book": { "title": "Grit", "category": "NON-FIKSI" },
+    "borrowDate": "16 Okt 2023", "status": ["AKTIF"],
+    "penalty": { "amount": null, "daysLate": null }, "action": "UPDATE STATUS", "actionDisabled": false
+  },
+  {
+    "id": "10",
+    "member": { "initials": "ND", "name": "Nadia Saphira", "id": "#M-898", "color": "red" },
+    "book": { "title": "1984", "category": "FIKSI" },
+    "borrowDate": "01 Okt 2023", "status": ["TERLAMBAT", "TIDAK BISA PINJAM"],
+    "penalty": { "amount": "Rp 50.000", "daysLate": "10 HARI TERLAMBAT" }, "action": "BAYAR DENDA", "actionDisabled": false
+  },
+  {
+    "id": "11",
+    "member": { "initials": "MA", "name": "Muhammad Ali", "id": "#M-899", "color": "blue" },
+    "book": { "title": "Bumi", "category": "FIKSI" },
+    "borrowDate": "17 Okt 2023", "status": ["AKTIF"],
+    "penalty": { "amount": null, "daysLate": null }, "action": "UPDATE STATUS", "actionDisabled": false
+  },
+  {
+    "id": "12",
+    "member": { "initials": "SP", "name": "Siska Putri", "id": "#M-900", "color": "red" },
+    "book": { "title": "Bintang", "category": "FIKSI" },
+    "borrowDate": "18 Okt 2023", "status": ["AKTIF"],
+    "penalty": { "amount": null, "daysLate": null }, "action": "UPDATE STATUS", "actionDisabled": false
+  },
+  {
+    "id": "13",
+    "member": { "initials": "AW", "name": "Andi Wijaya", "id": "#M-901", "color": "blue" },
+    "book": { "title": "Rich Dad Poor Dad", "category": "NON-FIKSI" },
+    "borrowDate": "11 Okt 2023", "status": ["DIKEMBALIKAN"],
+    "penalty": { "amount": null, "daysLate": null }, "action": "UPDATE STATUS", "actionDisabled": true
+  },
+  {
+    "id": "14",
+    "member": { "initials": "CW", "name": "Citra Kirana", "id": "#M-902", "color": "red" },
+    "book": { "title": "Hujan", "category": "FIKSI" },
+    "borrowDate": "02 Okt 2023", "status": ["TERLAMBAT", "PERINGATAN AKTIF"],
+    "penalty": { "amount": "Rp 25.000", "daysLate": "5 HARI TERLAMBAT" }, "action": "BAYAR DENDA", "actionDisabled": false
+  },
+  {
+    "id": "15",
+    "member": { "initials": "DH", "name": "Deni Hendra", "id": "#M-903", "color": "blue" },
+    "book": { "title": "Komet Minor", "category": "FIKSI" },
+    "borrowDate": "19 Okt 2023", "status": ["AKTIF"],
+    "penalty": { "amount": null, "daysLate": null }, "action": "UPDATE STATUS", "actionDisabled": false
+  }
+]

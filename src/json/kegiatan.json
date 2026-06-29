@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "title": "Workshop Mendongeng Kreatif di Desa Pasir",
+    "date": "12 Maret 2024",
+    "category": "Literasi Anak",
+    "description": "Meningkatkan minat baca anak-anak melalui metode storytelling yang interaktif dan alat peraga edukatif buatan sendiri.",
+    "image": "/images/kegiatan-1.jpg",
+    "publishDate": "12 Maret 2024",
+    "timeInfo": "Minggu, 12 Juni 2024 • 09:00 - Selesai",
+    "locationInfo": "Aula Utama Rumah Kreatif Wadas Kelir",
+    "content": [
+      "Mendongeng bukan sekadar membacakan cerita, melainkan sebuah seni mentransfer nilai, budaya, dan emosi melalui suara serta ekspresi. Di Rumah Kreatif Wadas Kelir, kami percaya bahwa setiap anak memiliki potensi untuk menjadi penutur cerita yang hebat jika diberikan ruang dan teknik yang tepat.",
+      "Workshop ini dirancang khusus untuk para pendidik, orang tua, dan pegiat literasi yang ingin mendalami teknik vocal processing, penggunaan alat peraga sederhana, hingga cara membangun interaksi yang dinamis dengan audiens anak-anak. Kami akan menghadirkan narasumber ahli yang telah berpengalaman bertahun-tahun di dunia literasi anak nasional.",
+      "Selama sesi berlangsung, peserta tidak hanya akan mendengarkan teori, tetapi juga melakukan praktik langsung (hands-on) dalam menciptakan alur cerita yang menarik dari benda-benda di sekitar kita. Mari bersama-sama kita hidupkan kembali budaya bertutur di tengah gempuran era digital."
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Ujian Kesetaraan Gelombang Pertama 2024",
+    "date": "10 Maret 2024",
+    "category": "Paket B & C",
+    "description": "Memfasilitasi warga belajar untuk mendapatkan ijazah setara SMA guna meningkatkan kualitas hidup dan peluang kerja.",
+    "image": "/images/kegiatan-2.jpg",
+    "publishDate": "10 Maret 2024",
+    "timeInfo": "Senin, 10 Maret 2024 • 08:00 - 15:00",
+    "locationInfo": "Gedung Serbaguna Wadas Kelir",
+    "content": [
+      "Ujian Kesetaraan Gelombang Pertama 2024 merupakan program unggulan Rumah Kreatif Wadas Kelir untuk memfasilitasi warga belajar yang belum memiliki ijazah formal setara SMP (Paket B) dan SMA (Paket C).",
+      "Program ini telah berjalan selama bertahun-tahun dan berhasil membantu ratusan warga Banyumas untuk mendapatkan ijazah kesetaraan. Dengan ijazah ini, para warga belajar dapat melanjutkan pendidikan atau melamar pekerjaan yang mensyaratkan ijazah formal.",
+      "Pelaksanaan ujian dilakukan secara tertib dan profesional dengan pengawasan dari Dinas Pendidikan setempat. Kami mengucapkan terima kasih kepada semua pihak yang telah mendukung program ini."
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Pementasan Teater Rakyat Wadas Kelir",
+    "date": "5 Maret 2024",
+    "category": "Seni & Budaya",
+    "description": "Menghidupkan kembali tradisi lisan Banyumas melalui kolaborasi seni peran, musik tradisional, dan koreografi modern.",
+    "image": "/images/kegiatan-3.jpg",
+    "publishDate": "5 Maret 2024",
+    "timeInfo": "Sabtu, 5 Maret 2024 • 19:00 - 21:00",
+    "locationInfo": "Pendopo Wadas Kelir",
+    "content": [
+      "Pementasan Teater Rakyat Wadas Kelir menghadirkan pertunjukan seni yang memadukan tradisi lisan Banyumas dengan sentuhan seni peran modern. Pertunjukan ini menjadi ajang kreativitas para pemuda Wadas Kelir dalam mengekspresikan cerita-cerita rakyat lokal.",
+      "Kolaborasi antara musik tradisional calung, gamelan, dan koreografi modern menciptakan pengalaman menonton yang unik dan memukau. Para penonton akan diajak menyelami kekayaan budaya Banyumas melalui narasi yang dikemas secara kreatif.",
+      "Acara ini terbuka untuk umum dan bertujuan menumbuhkan rasa bangga terhadap warisan budaya lokal di kalangan generasi muda."
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Diskusi Buku: Realisme Magis di Sastra Indonesia",
+    "date": "28 Februari 2024",
+    "category": "Komunitas Sastra",
+    "description": "Bedah karya sastrawan lokal dan nasional untuk memperluas cakrawala berpikir para penulis muda Purwokerto.",
+    "image": "/images/kegiatan-4.jpg",
+    "publishDate": "28 Februari 2024",
+    "timeInfo": "Rabu, 28 Februari 2024 • 16:00 - 18:00",
+    "locationInfo": "Perpustakaan Wadas Kelir",
+    "content": [
+      "Diskusi Buku kali ini mengangkat tema Realisme Magis dalam karya sastra Indonesia. Peserta akan diajak membedah karya-karya sastrawan lokal dan nasional yang menggunakan teknik realisme magis dalam penulisan mereka.",
+      "Narasumber yang dihadirkan adalah penulis dan akademisi sastra yang berpengalaman di bidangnya. Diskusi akan mencakup analisis teks, konteks sosial budaya, serta teknik penulisan yang dapat dipelajari oleh para penulis muda.",
+      "Kegiatan ini merupakan bagian dari program rutin Komunitas Sastra Wadas Kelir yang bertujuan memperluas wawasan literasi dan mendorong produktivitas menulis di kalangan pemuda Purwokerto."
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Festival Dolanan Tradisional Banyumas",
+    "date": "22 Februari 2024",
+    "category": "Literasi Anak",
+    "description": "Mengenalkan kembali permainan tradisional kepada anak-anak untuk melatih motorik dan jiwa sosial mereka di era digital.",
+    "image": "/images/kegiatan-5.jpg",
+    "publishDate": "22 Februari 2024",
+    "timeInfo": "Minggu, 22 Februari 2024 • 08:00 - 12:00",
+    "locationInfo": "Lapangan Desa Wadas Kelir",
+    "content": [
+      "Festival Dolanan Tradisional Banyumas menghadirkan berbagai permainan tradisional seperti gobak sodor, engklek, egrang, dan bekel. Kegiatan ini dirancang untuk mengenalkan kembali kekayaan budaya permainan tradisional kepada anak-anak.",
+      "Di era digital saat ini, banyak anak-anak yang lebih mengenal gadget daripada permainan tradisional. Melalui festival ini, kami ingin membuktikan bahwa permainan tradisional tidak kalah seru dan memiliki manfaat lebih dalam melatih motorik kasar, kerja sama tim, dan jiwa sportivitas.",
+      "Festival ini diikuti oleh ratusan anak dari berbagai sekolah di Banyumas dan mendapat antusiasme yang luar biasa dari para orang tua dan guru."
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Pelatihan Karawitan untuk Pemuda",
+    "date": "15 Februari 2024",
+    "category": "Seni & Budaya",
+    "description": "Latihan rutin instrumen tradisional untuk menjaga kelestarian budaya musik lokal di tengah modernitas.",
+    "image": "/images/kegiatan-6.jpg",
+    "publishDate": "15 Februari 2024",
+    "timeInfo": "Jumat, 15 Februari 2024 • 15:00 - 17:00",
+    "locationInfo": "Pendopo Wadas Kelir",
+    "content": [
+      "Pelatihan Karawitan untuk Pemuda merupakan program rutin yang diselenggarakan setiap minggu di Pendopo Wadas Kelir. Program ini bertujuan untuk melestarikan seni musik tradisional Jawa, khususnya gamelan, di kalangan generasi muda.",
+      "Peserta akan belajar memainkan berbagai instrumen gamelan seperti saron, demung, bonang, kenong, dan gong di bawah bimbingan maestro karawitan Banyumas. Materi yang diajarkan meliputi teknik dasar hingga komposisi gending tradisional.",
+      "Kegiatan ini terbuka untuk semua pemuda yang berminat, tanpa memandang latar belakang pengalaman musik. Kami percaya bahwa setiap orang memiliki potensi untuk mencintai dan melestarikan budaya musiknya sendiri."
+    ]
+  }
+]

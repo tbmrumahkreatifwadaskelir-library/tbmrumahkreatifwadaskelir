@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "Peminjaman Baru",
+    "message": "Budi Santoso telah meminjam buku 'Filosofi Teras'.",
+    "type": "info",
+    "read": false,
+    "createdAt": "2 menit yang lalu"
+  },
+  {
+    "id": "2",
+    "title": "Pengembalian Terlambat",
+    "message": "Rina Nuraini terlambat mengembalikan buku 'Bumi Manusia'. Denda Rp 15.000.",
+    "type": "warning",
+    "read": false,
+    "createdAt": "1 jam yang lalu"
+  },
+  {
+    "id": "3",
+    "title": "Buku Dikembalikan",
+    "message": "Siti Aminah telah mengembalikan buku 'Laskar Pelangi'.",
+    "type": "success",
+    "read": false,
+    "createdAt": "15 menit yang lalu"
+  },
+  {
+    "id": "4",
+    "title": "Buku Baru Tersedia",
+    "message": "Buku 'Gadis Kretek' telah ditambahkan ke sistem perpustakaan.",
+    "type": "info",
+    "read": true,
+    "createdAt": "1 hari yang lalu"
+  },
+  {
+    "id": "5",
+    "title": "Batas Peminjaman Tercapai",
+    "message": "Nadia Saphira telah mencapai batas maksimal peminjaman (3 buku).",
+    "type": "warning",
+    "read": true,
+    "createdAt": "2 hari yang lalu"
+  },
+  {
+    "id": "6",
+    "title": "Pembaruan Sistem",
+    "message": "Sistem perpustakaan telah diperbarui ke versi 2.0. Silakan cek fitur analitik terbaru.",
+    "type": "success",
+    "read": true,
+    "createdAt": "3 hari yang lalu"
+  }
+]

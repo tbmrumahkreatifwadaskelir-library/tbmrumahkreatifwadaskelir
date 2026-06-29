@@ -1,0 +1,222 @@
+[
+  {
+    "id": "BK-001",
+    "title": "Laskar Pelangi",
+    "isbn": "9789793062791",
+    "author": "Andrea Hirata",
+    "category": "800 - Kesusastraan",
+    "stock": 12,
+    "status": "Tersedia",
+    "coverColor": "#f8f9fa",
+    "coverAccent": "#e9ecef"
+  },
+  {
+    "id": "BK-002",
+    "title": "Bumi",
+    "isbn": "9786020301129",
+    "author": "Tere Liye",
+    "category": "800 - Kesusastraan",
+    "stock": 5,
+    "status": "Dipinjam (3)",
+    "coverColor": "#334155",
+    "coverAccent": "#1e293b"
+  },
+  {
+    "id": "BK-003",
+    "title": "Filosofi Teras",
+    "isbn": "9786024125189",
+    "author": "Henry Manampiring",
+    "category": "100 - Filsafat",
+    "stock": 8,
+    "status": "Tersedia",
+    "coverColor": "#8fbc8f",
+    "coverAccent": "#6b8e6b"
+  },
+  {
+    "id": "BK-004",
+    "title": "Sapiens",
+    "isbn": "9786024410209",
+    "author": "Yuval Noah Harari",
+    "category": "900 - Sejarah",
+    "stock": 2,
+    "status": "Tersedia",
+    "coverColor": "#3d5a80",
+    "coverAccent": "#293241"
+  },
+  {
+    "id": "BK-005",
+    "title": "Atomic Habits",
+    "isbn": "9786020633176",
+    "author": "James Clear",
+    "category": "100 - Psikologi",
+    "stock": 0,
+    "status": "Habis",
+    "coverColor": "#f8f9fa",
+    "coverAccent": "#e9ecef"
+  },
+  {
+    "id": "BK-006",
+    "title": "Pulang",
+    "isbn": "9786020822129",
+    "author": "Tere Liye",
+    "category": "800 - Kesusastraan",
+    "stock": 15,
+    "status": "Tersedia",
+    "coverColor": "#eab308",
+    "coverAccent": "#ca8a04"
+  },
+  {
+    "id": "BK-007",
+    "title": "Hujan",
+    "isbn": "9786020324784",
+    "author": "Tere Liye",
+    "category": "800 - Kesusastraan",
+    "stock": 4,
+    "status": "Dipinjam (2)",
+    "coverColor": "#0ea5e9",
+    "coverAccent": "#0284c7"
+  },
+  {
+    "id": "BK-008",
+    "title": "Thinking, Fast and Slow",
+    "isbn": "9780374533557",
+    "author": "Daniel Kahneman",
+    "category": "100 - Psikologi",
+    "stock": 7,
+    "status": "Tersedia",
+    "coverColor": "#64748b",
+    "coverAccent": "#475569"
+  },
+  {
+    "id": "BK-009",
+    "title": "Dunia Sophie",
+    "isbn": "9784344030612",
+    "author": "Jostein Gaarder",
+    "category": "100 - Filsafat",
+    "stock": 9,
+    "status": "Tersedia",
+    "coverColor": "#f43f5e",
+    "coverAccent": "#e11d48"
+  },
+  {
+    "id": "BK-010",
+    "title": "Negara",
+    "isbn": "9789791684346",
+    "author": "Plato",
+    "category": "100 - Filsafat",
+    "stock": 3,
+    "status": "Dipinjam (1)",
+    "coverColor": "#d946ef",
+    "coverAccent": "#c026d3"
+  },
+  {
+    "id": "BK-011",
+    "title": "Sejarah Dunia yang Disembunyikan",
+    "isbn": "9786028066846",
+    "author": "Jonathan Black",
+    "category": "900 - Sejarah",
+    "stock": 0,
+    "status": "Habis",
+    "coverColor": "#14b8a6",
+    "coverAccent": "#0d9488"
+  },
+  {
+    "id": "BK-012",
+    "title": "Cantik Itu Luka",
+    "isbn": "9786020312583",
+    "author": "Eka Kurniawan",
+    "category": "800 - Kesusastraan",
+    "stock": 10,
+    "status": "Tersedia",
+    "coverColor": "#8b5cf6",
+    "coverAccent": "#7c3aed"
+  },
+  {
+    "id": "BK-013",
+    "title": "Madilog",
+    "isbn": "9789791684261",
+    "author": "Tan Malaka",
+    "category": "100 - Filsafat",
+    "stock": 6,
+    "status": "Tersedia",
+    "coverColor": "#ec4899",
+    "coverAccent": "#db2777"
+  },
+  {
+    "id": "BK-014",
+    "title": "Guns, Germs, and Steel",
+    "isbn": "9780393317558",
+    "author": "Jared Diamond",
+    "category": "900 - Sejarah",
+    "stock": 8,
+    "status": "Tersedia",
+    "coverColor": "#84cc16",
+    "coverAccent": "#65a30d"
+  },
+  {
+    "id": "BK-015",
+    "title": "A Brief History of Time",
+    "isbn": "9780553380163",
+    "author": "Stephen Hawking",
+    "category": "500 - Sains",
+    "stock": 2,
+    "status": "Dipinjam (5)",
+    "coverColor": "#06b6d4",
+    "coverAccent": "#0891b2"
+  },
+  {
+    "id": "BK-016",
+    "title": "Influence: The Psychology of Persuasion",
+    "isbn": "9780061241895",
+    "author": "Robert B. Cialdini",
+    "category": "100 - Psikologi",
+    "stock": 14,
+    "status": "Tersedia",
+    "coverColor": "#f97316",
+    "coverAccent": "#ea580c"
+  },
+  {
+    "id": "BK-017",
+    "title": "Man's Search for Meaning",
+    "isbn": "9780807014295",
+    "author": "Viktor E. Frankl",
+    "category": "100 - Psikologi",
+    "stock": 1,
+    "status": "Dipinjam (1)",
+    "coverColor": "#10b981",
+    "coverAccent": "#059669"
+  },
+  {
+    "id": "BK-018",
+    "title": "Bumi Manusia",
+    "isbn": "9789799731234",
+    "author": "Pramoedya Ananta Toer",
+    "category": "800 - Kesusastraan",
+    "stock": 0,
+    "status": "Habis",
+    "coverColor": "#ef4444",
+    "coverAccent": "#dc2626"
+  },
+  {
+    "id": "BK-019",
+    "title": "Cosmos",
+    "isbn": "9780345331359",
+    "author": "Carl Sagan",
+    "category": "500 - Sains",
+    "stock": 5,
+    "status": "Tersedia",
+    "coverColor": "#3b82f6",
+    "coverAccent": "#2563eb"
+  },
+  {
+    "id": "BK-020",
+    "title": "Meditations",
+    "isbn": "9780812968255",
+    "author": "Marcus Aurelius",
+    "category": "100 - Filsafat",
+    "stock": 11,
+    "status": "Tersedia",
+    "coverColor": "#a8a29e",
+    "coverAccent": "#78716c"
+  }
+]

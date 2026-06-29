@@ -1,0 +1,329 @@
+{
+  "success": true,
+  "message": "Daftar buku berhasil diambil.",
+  "data": {
+    "books": [
+      {
+        "id": 1188,
+        "isbn": null,
+        "title": "Vygotsky In Action In The Early Years",
+        "author": "Galina Dolya",
+        "publisher": "A David Fulton Book",
+        "publish_year": null,
+        "ddc_code": null,
+        "book_type": "physical",
+        "total_copies": 1,
+        "available_copies": 1,
+        "cover_url": null,
+        "categories": [
+          {
+            "id": 7,
+            "name": "Pengembangan Diri",
+            "slug": "pengembangan-diri"
+          }
+        ],
+        "loans_count": 0
+      },
+      {
+        "id": 1189,
+        "isbn": null,
+        "title": "Key Concepts In Developmental Psychology",
+        "author": "H. Rudolph Schaffer",
+        "publisher": "Sage Publications",
+        "publish_year": null,
+        "ddc_code": null,
+        "book_type": "physical",
+        "total_copies": 1,
+        "available_copies": 1,
+        "cover_url": null,
+        "categories": [
+          {
+            "id": 7,
+            "name": "Pengembangan Diri",
+            "slug": "pengembangan-diri"
+          }
+        ],
+        "loans_count": 0
+      },
+      {
+        "id": 1190,
+        "isbn": null,
+        "title": "Children's Thinking Fourth Edition",
+        "author": "Robert S. Siegler",
+        "publisher": "Pearson Education International",
+        "publish_year": null,
+        "ddc_code": null,
+        "book_type": "physical",
+        "total_copies": 1,
+        "available_copies": 1,
+        "cover_url": null,
+        "categories": [
+          {
+            "id": 7,
+            "name": "Pengembangan Diri",
+            "slug": "pengembangan-diri"
+          }
+        ],
+        "loans_count": 0
+      },
+      {
+        "id": 1191,
+        "isbn": null,
+        "title": "Impact Stories Of Library Transformation Based On Social Inclusion",
+        "author": "Perpusnas",
+        "publisher": "Perpusnas Indonesia",
+        "publish_year": null,
+        "ddc_code": null,
+        "book_type": "physical",
+        "total_copies": 1,
+        "available_copies": 1,
+        "cover_url": null,
+        "categories": [
+          {
+            "id": 7,
+            "name": "Pengembangan Diri",
+            "slug": "pengembangan-diri"
+          }
+        ],
+        "loans_count": 0
+      },
+      {
+        "id": 1192,
+        "isbn": null,
+        "title": "Wow! Serunya Mendidik Anak",
+        "author": "Heru Kurniawan",
+        "publisher": "Checklist (Penerbit Buku Favorit)",
+        "publish_year": null,
+        "ddc_code": null,
+        "book_type": "physical",
+        "total_copies": 1,
+        "available_copies": 1,
+        "cover_url": null,
+        "categories": [
+          {
+            "id": 8,
+            "name": "Parenting",
+            "slug": "parenting"
+          }
+        ],
+        "loans_count": 0
+      },
+      {
+        "id": 1193,
+        "isbn": null,
+        "title": "10 Kiat Sukses Menjadi Orangtua",
+        "author": "-",
+        "publisher": "Zenith Publisher",
+        "publish_year": null,
+        "ddc_code": null,
+        "book_type": "physical",
+        "total_copies": 1,
+        "available_copies": 1,
+        "cover_url": null,
+        "categories": [
+          {
+            "id": 8,
+            "name": "Parenting",
+            "slug": "parenting"
+          }
+        ],
+        "loans_count": 0
+      },
+      {
+        "id": 1194,
+        "isbn": null,
+        "title": "Mendidik Anak dengan Game Islami",
+        "author": "Abu Raihan & Ummu Raihan",
+        "publisher": "Gazza Media",
+        "publish_year": null,
+        "ddc_code": null,
+        "book_type": "physical",
+        "total_copies": 1,
+        "available_copies": 1,
+        "cover_url": null,
+        "categories": [
+          {
+            "id": 8,
+            "name": "Parenting",
+            "slug": "parenting"
+          }
+        ],
+        "loans_count": 0
+      },
+      {
+        "id": 1195,
+        "isbn": null,
+        "title": "Ensiklopedia Perkembangan Anak",
+        "author": "Carol Cooper, dkk",
+        "publisher": "Esensi Erlangga Group",
+        "publish_year": null,
+        "ddc_code": null,
+        "book_type": "physical",
+        "total_copies": 1,
+        "available_copies": 1,
+        "cover_url": null,
+        "categories": [
+          {
+            "id": 8,
+            "name": "Parenting",
+            "slug": "parenting"
+          }
+        ],
+        "loans_count": 0
+      },
+      {
+        "id": 1196,
+        "isbn": null,
+        "title": "Understanding Your School-Age Child",
+        "author": "Successful Parenting",
+        "publisher": "Time Life Asia",
+        "publish_year": null,
+        "ddc_code": null,
+        "book_type": "physical",
+        "total_copies": 1,
+        "available_copies": 1,
+        "cover_url": null,
+        "categories": [
+          {
+            "id": 8,
+            "name": "Parenting",
+            "slug": "parenting"
+          }
+        ],
+        "loans_count": 0
+      },
+      {
+        "id": 1197,
+        "isbn": null,
+        "title": "First Steps Towards Reading",
+        "author": "Successful Parenting",
+        "publisher": "Time Life Asia",
+        "publish_year": null,
+        "ddc_code": null,
+        "book_type": "physical",
+        "total_copies": 1,
+        "available_copies": 1,
+        "cover_url": null,
+        "categories": [
+          {
+            "id": 8,
+            "name": "Parenting",
+            "slug": "parenting"
+          }
+        ],
+        "loans_count": 0
+      },
+      {
+        "id": 1198,
+        "isbn": null,
+        "title": "Raising a Happy Child",
+        "author": "Successful Parenting",
+        "publisher": "Time Life Asia",
+        "publish_year": null,
+        "ddc_code": null,
+        "book_type": "physical",
+        "total_copies": 1,
+        "available_copies": 1,
+        "cover_url": null,
+        "categories": [
+          {
+            "id": 8,
+            "name": "Parenting",
+            "slug": "parenting"
+          }
+        ],
+        "loans_count": 0
+      },
+      {
+        "id": 1199,
+        "isbn": null,
+        "title": "Developing Your Child's Potential",
+        "author": "Successful Parenting",
+        "publisher": "Time Life Asia",
+        "publish_year": null,
+        "ddc_code": null,
+        "book_type": "physical",
+        "total_copies": 1,
+        "available_copies": 1,
+        "cover_url": null,
+        "categories": [
+          {
+            "id": 8,
+            "name": "Parenting",
+            "slug": "parenting"
+          }
+        ],
+        "loans_count": 0
+      },
+      {
+        "id": 1200,
+        "isbn": null,
+        "title": "Teaching Good Behaviour",
+        "author": "Successful Parenting",
+        "publisher": "Time Life Asia",
+        "publish_year": null,
+        "ddc_code": null,
+        "book_type": "physical",
+        "total_copies": 1,
+        "available_copies": 1,
+        "cover_url": null,
+        "categories": [
+          {
+            "id": 8,
+            "name": "Parenting",
+            "slug": "parenting"
+          }
+        ],
+        "loans_count": 0
+      },
+      {
+        "id": 1201,
+        "isbn": null,
+        "title": "Bobo: Berbagai Pekerjaan di Dunia Digital",
+        "author": "-",
+        "publisher": "Majalah Bobo",
+        "publish_year": null,
+        "ddc_code": null,
+        "book_type": "physical",
+        "total_copies": 1,
+        "available_copies": 1,
+        "cover_url": null,
+        "categories": [
+          {
+            "id": 9,
+            "name": "Majalah",
+            "slug": "majalah"
+          }
+        ],
+        "loans_count": 0
+      },
+      {
+        "id": 1202,
+        "isbn": null,
+        "title": "Bobo: Teknologi Canggih Karya Anak Bangsa",
+        "author": "-",
+        "publisher": "Majalah Bobo",
+        "publish_year": null,
+        "ddc_code": null,
+        "book_type": "physical",
+        "total_copies": 1,
+        "available_copies": 1,
+        "cover_url": null,
+        "categories": [
+          {
+            "id": 9,
+            "name": "Majalah",
+            "slug": "majalah"
+          }
+        ],
+        "loans_count": 0
+      }
+    ],
+    "pagination": {
+      "current_page": 1,
+      "last_page": 82,
+      "per_page": 15,
+      "total": 1229
+    }
+  }
+}

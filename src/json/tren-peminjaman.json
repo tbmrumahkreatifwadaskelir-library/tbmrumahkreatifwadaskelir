@@ -1,0 +1,13 @@
+{
+  "labels": ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul", "Ags", "Sep", "Okt", "Nov", "Des"],
+  "datasets": [
+    {
+      "label": "Buku Dipinjam",
+      "data": [120, 190, 150, 210, 180, 240, 260, 200, 220, 250, 280, 310]
+    },
+    {
+      "label": "Buku Dikembalikan",
+      "data": [110, 180, 140, 200, 160, 220, 250, 190, 210, 240, 260, 300]
+    }
+  ]
+}
