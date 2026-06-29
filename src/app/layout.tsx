@@ -14,9 +14,40 @@ import { ProgressBarProvider } from "@/components/progress-bar-provider";
 // };
 
 export const metadata: Metadata = {
-  title: "RKWK - Taman Bacaan Masyarakat",
+  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL || process.env.NEXTAUTH_URL || "http://localhost:3000"),
+  title: {
+    default: "RKWK - Taman Bacaan Masyarakat",
+    template: "%s | RKWK",
+  },
   description:
     "Solusi manajemen Taman Bacaan Masyarakat (TBM) modern untuk mendukung operasional dan aksesibilitas buku di Rumah Kreatif Wadas Kelir.",
+  keywords: ["Taman Bacaan Masyarakat", "TBM", "Rumah Kreatif Wadas Kelir", "Perpustakaan", "Buku", "Literasi"],
+  authors: [{ name: "Rumah Kreatif Wadas Kelir" }],
+  creator: "Rumah Kreatif Wadas Kelir",
+  openGraph: {
+    type: "website",
+    locale: "id_ID",
+    url: "/",
+    title: "RKWK - Taman Bacaan Masyarakat",
+    description: "Solusi manajemen Taman Bacaan Masyarakat (TBM) modern untuk mendukung operasional dan aksesibilitas buku di Rumah Kreatif Wadas Kelir.",
+    siteName: "TBM Rumah Kreatif Wadas Kelir",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "RKWK - Taman Bacaan Masyarakat",
+    description: "Solusi manajemen Taman Bacaan Masyarakat (TBM) modern untuk mendukung operasional dan aksesibilitas buku di Rumah Kreatif Wadas Kelir.",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
+  },
   icons: {
     icon: "/favicon.ico",
   },
