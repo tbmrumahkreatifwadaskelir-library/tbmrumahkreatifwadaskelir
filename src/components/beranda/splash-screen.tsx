@@ -70,10 +70,10 @@ export default function SplashScreen() {
             </div>
 
             <h2 className="text-[28px] font-serif font-bold leading-tight tracking-wide mb-5">
-              Taman Bacaan Masyarakat
+              TBM
             </h2>
             <p className="text-[10px] tracking-[0.2em] text-white/80 mb-10 font-medium uppercase">
-              Rumah Kreatif Wadas Kelir
+              RKWK
             </p>
 
             {/* Chart.js Decorative */}
