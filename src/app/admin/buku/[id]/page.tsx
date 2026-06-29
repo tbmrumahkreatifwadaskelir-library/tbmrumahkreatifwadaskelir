@@ -150,7 +150,10 @@ export default function BukuFormPage({
     setIsSuggestingDdc(true);
     try {
       const catName = categoryOptions.find((c) => String(c.id) === categoryId)?.name || "";
-      const apiUrl = (process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000/api").replace(/\/$/, '');
+      const apiUrl = (
+        process.env.NEXT_PUBLIC_API_URL ||
+        "https://api.tbmrumahkreatifwadaskelir.com/api"
+      ).replace(/\/$/, "");
       
       // Attempt 1: Search by title + category
       let searchParam = `${title} ${catName}`.trim();
@@ -189,7 +192,10 @@ export default function BukuFormPage({
       const session = await getSession();
       const token = session?.user?.token;
 
-      const apiUrl = (process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000/api").replace(/\/$/, '');
+      const apiUrl = (
+        process.env.NEXT_PUBLIC_API_URL ||
+        "https://api.tbmrumahkreatifwadaskelir.com/api"
+      ).replace(/\/$/, "");
       const headers: Record<string, string> = {
         Accept: "application/json",
       };

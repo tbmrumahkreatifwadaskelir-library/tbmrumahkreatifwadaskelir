@@ -320,7 +320,7 @@ export default function AnalitikPage() {
   const handleExportExcel = async () => {
     if (!token) return;
     setIsExporting(true);
-    const url = `${process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8000/api'}/admin/analytics/literacy/export?format=excel`;
+    const url = `${process.env.NEXT_PUBLIC_API_URL || "https://api.tbmrumahkreatifwadaskelir.com/api"}/admin/analytics/literacy/export?format=excel`;
     
     try {
       const response = await fetch(url, {

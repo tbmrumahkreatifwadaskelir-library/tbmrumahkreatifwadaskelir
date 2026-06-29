@@ -21,7 +21,9 @@ export const generatePagination = (currentPage: number, totalPages: number) => {
 export function getStorageUrl(path?: string | null): string {
   if (!path) return "";
   if (path.startsWith("http")) return path;
-  const baseUrl = process.env.NEXT_PUBLIC_API_BASE_URL || "http://localhost:8000/api";
+  const baseUrl =
+    process.env.NEXT_PUBLIC_API_BASE_URL ||
+    "https://api.tbmrumahkreatifwadaskelir.com/api";
   const storageBase = baseUrl.replace(/\/api\/?$/, "/storage");
   return `${storageBase}/${path.replace(/^\//, "")}`;
 }
