@@ -69,11 +69,8 @@ export default function SplashScreen() {
               <Image src="/favicon.png" alt="Logo" width={80} height={80} />
             </div>
 
-            <h2 className="text-[28px] font-serif font-bold leading-tight tracking-wide mb-1">
-              Wadas Kelir
-            </h2>
             <h2 className="text-[28px] font-serif font-bold leading-tight tracking-wide mb-5">
-              TBM
+              Taman Bacaan Masyarakat
             </h2>
             <p className="text-[10px] tracking-[0.2em] text-white/80 mb-10 font-medium uppercase">
               Rumah Kreatif Wadas Kelir
@@ -167,7 +164,7 @@ export default function SplashScreen() {
             <br />
             <span className="text-[#99BD4A]">Literasi Digital</span>
             <br />
-            Wadas Kelir
+            Rumah Kreatif Wadas Kelir
           </h1>
 
           <p className="text-[13px] md:text-[14px] text-gray-500 mb-5 leading-relaxed pr-4">

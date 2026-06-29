@@ -77,7 +77,7 @@ export default function AdminDashboardPage() {
   const handleExportExcel = async () => {
     if (!token) return;
     setIsExporting(true);
-    const url = `${process.env.NEXT_PUBLIC_API_URL || "https://api.tbmrumahkreatifwadaskelir.com/api"}/admin/dashboard/export?format=excel`;
+    const url = `${process.env.NEXT_PUBLIC_API_URL || 'https://api.tbmrumahkreatifwadaskelir.com/api'}/admin/dashboard/export?format=excel`;
     
     try {
       const response = await fetch(url, {

@@ -122,7 +122,7 @@ export default function Navbar() {
               className="object-contain"
             />
             <span className="font-extrabold text-[#1e293b] text-lg tracking-tight">
-              Wadas Kelir
+              TBM RKWK
             </span>
           </Link>
         </div>

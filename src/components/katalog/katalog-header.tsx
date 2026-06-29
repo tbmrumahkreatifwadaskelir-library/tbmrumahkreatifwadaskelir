@@ -74,7 +74,7 @@ export default function KatalogHeader({ toggleSidebar }: KatalogHeaderProps) {
               Rumah Kreatif Wadas Kelir
             </span>
             <span className="font-extrabold text-[#1e293b] text-[14px] sm:text-[15px] tracking-tight truncate sm:hidden">
-              Wadas Kelir
+              Taman Bacaan Masyarakat
             </span>
           </Link>
         </div>
