@@ -16,8 +16,8 @@ import { ProgressBarProvider } from "@/components/progress-bar-provider";
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL || process.env.NEXTAUTH_URL || "http://localhost:3000"),
   title: {
-    default: "RKWK - Taman Bacaan Masyarakat",
-    template: "%s | RKWK",
+    default: "Rumah Kreatif Wadas Kelir - Taman Bacaan Masyarakat",
+    template: "%s | Rumah Kreatif Wadas Kelir",
   },
   description:
     "Solusi manajemen Taman Bacaan Masyarakat (TBM) modern untuk mendukung operasional dan aksesibilitas buku di Rumah Kreatif Wadas Kelir.",
@@ -28,13 +28,13 @@ export const metadata: Metadata = {
     type: "website",
     locale: "id_ID",
     url: "/",
-    title: "RKWK - Taman Bacaan Masyarakat",
+    title: "Rumah Kreatif Wadas Kelir - Taman Bacaan Masyarakat",
     description: "Solusi manajemen Taman Bacaan Masyarakat (TBM) modern untuk mendukung operasional dan aksesibilitas buku di Rumah Kreatif Wadas Kelir.",
-    siteName: "TBM Rumah Kreatif Wadas Kelir",
+    siteName: "Rumah Kreatif Wadas Kelir",
   },
   twitter: {
     card: "summary_large_image",
-    title: "RKWK - Taman Bacaan Masyarakat",
+    title: "Rumah Kreatif Wadas Kelir - Taman Bacaan Masyarakat",
     description: "Solusi manajemen Taman Bacaan Masyarakat (TBM) modern untuk mendukung operasional dan aksesibilitas buku di Rumah Kreatif Wadas Kelir.",
   },
   robots: {

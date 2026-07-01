@@ -6,10 +6,10 @@ import RekomendasiBuku from "@/components/beranda/rekomendasi-buku";
 import EventCarousel from "@/components/beranda/event-carousel";
 
 export const metadata: Metadata = {
-  title: "Beranda | RKWK - Taman Bacaan Masyarakat",
+  title: "Beranda | Rumah Kreatif Wadas Kelir - Taman Bacaan Masyarakat",
   description: "Selamat datang di Rumah Kreatif Wadas Kelir. Temukan berbagai koleksi buku menarik, kegiatan literasi, dan layanan peminjaman buku modern.",
   openGraph: {
-    title: "Beranda | RKWK - Taman Bacaan Masyarakat",
+    title: "Beranda | Rumah Kreatif Wadas Kelir - Taman Bacaan Masyarakat",
     description: "Selamat datang di Rumah Kreatif Wadas Kelir. Temukan berbagai koleksi buku menarik, kegiatan literasi, dan layanan peminjaman buku modern.",
   }
 };
